@@ -66,6 +66,7 @@ x64 and x86 folder (they contain another DLL for the SQLite DLL to function)
 Let me know if there is anything wrong.
 
 ----------------------Changelog-----------------------------
+
 Version 1 --------------------------------------------------
 Initial version
 
