@@ -66,7 +66,19 @@ x64 and x86 folder (they contain another DLL for the SQLite DLL to function)
 Let me know if there is anything wrong.
 
 ----------------------Changelog-----------------------------
+Version 1 --------------------------------------------------
+Initial version
 
+Version 2 --------------------------------------------------
 Fixed RegEx expression to include "Dolores's Friendly \"Welcome to Rocheste\" Gift"
 Added two lists for CHN ItemClass and Name, added loop at end to include these items
-Current number of items as of 22nd December 2016 - after update - 38,073
+Current number of items as of 22nd December 2016 - after update - 38,073 (retracted)
+
+Version 3 --------------------------------------------------
+Third time's the charm
+Fixed my damn bungle, so effing embarassing.
+Complete overhaul of WriteItems function,
+used SQL command with JOIN to combine ItemClassInfo and EquipItemInfo tables.
+then added names
+Current number of items as of 28th December 2016 - after update - 25,612
+
